@@ -1,4 +1,4 @@
-package creation.factorymethod;
+package creation.abstractfactory;
 
 /**
  * Description:
@@ -6,7 +6,7 @@ package creation.factorymethod;
  * @author 李自豪（zihao.li@quantgroup.cn）
  * @since 2021/9/6
  */
-public class Main {
+class Main {
     public static void main(String[] args) {
         Factory factoryA = new FactoryA();
         Factory factoryB = new FactoryB();

@@ -1,4 +1,4 @@
-package creation.factorymethod;
+package creation.abstractfactory;
 
 /**
  * Description:

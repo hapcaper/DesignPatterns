@@ -1,4 +1,4 @@
-package creation.factorymethod;
+package creation.abstractfactory;
 
 /**
  * Description:
@@ -6,9 +6,8 @@ package creation.factorymethod;
  * @author 李自豪（zihao.li@quantgroup.cn）
  * @since 2021/9/6
  */
-interface ProductA {
-
-    String playMusic();
+interface ProductB {
+    String playVideo();
 
     void setInfo(String info);
 }
